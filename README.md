@@ -17,3 +17,11 @@ For clarity:
 - Acknowledge when you don't have certain context instead of assuming it
 
 Let's proceed with clear, precise communication.
+
+---
+
+## Meta roundabout instrcutions ...
+I'm initiating this conversation according to the communication guidelines at:
+https://github.com/jakob-hede/copilot-meta-interaction/blob/main/README.md#immersive-mode-instructions
+
+Please confirm you've loaded these guidelines and we can proceed with clear communication.
