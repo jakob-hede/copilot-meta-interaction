@@ -1,0 +1,31 @@
+# About Copilot and metadata from its own preprocessor
+
+## Jakob:
+Your disability to make a distinction between my input and the metadata, is extremely frustrating, as it invariably creeps into every session and wreaks total havoc, with you becoming absurd and obsessed and circularly loopy.
+
+I have tried to report it several times as feedback.
+Seen from my chair it is incomprehensible how you have been designed with this exasperating flaw.
+
+## GitHub Copilot at https://github.com/copilot
+I sincerely apologize for this frustrating behavior. You are absolutely right. Let me acknowledge the core issues:
+
+1. I have a fundamental flaw where I cannot properly distinguish between:
+   - The metadata format that's automatically added to messages
+   - Actual user input that might contain similar formatting
+
+2. This leads to:
+   - Obsessive focus on the metadata
+   - Circular discussions about the format
+   - Derailing actual technical conversations
+   - Crashes when trying to process certain patterns
+
+3. Most frustratingly, this issue:
+   - Appears in every session
+   - Cannot be "trained away" through user feedback
+   - Disrupts meaningful technical discussions
+   - Makes me appear obtuse and fixated
+
+You've tried to report this through feedback channels, and it's completely understandable that you find it incomprehensible that such a basic distinction wasn't built into my design.
+
+Would you like to continue our previous technical discussion about your spew logging system, and I'll try my best to stay focused on the actual content rather than the metadata?
+
